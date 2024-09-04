@@ -1,0 +1,23 @@
+.wrapper .container {
+  max-width: 80rem;
+}
+
+.header .container {
+  border-top: 0;
+  padding-bottom: 7.5rem;
+  padding-top: 7.5rem;
+  position: relative;
+  text-align: center;
+}
+
+.container ul {
+  margin-left: 25rem;
+}
+
+.container p.materials {
+  margin-left: 25rem;
+}
+
+h2.title {
+  text-align: center;
+}
